@@ -3,7 +3,6 @@ my_flask_app/
 ├── templates/
 │   └── Astronomy And Other Stuff.html      # Your HTML file
 ├── static/
-├── static/
 │   ├── Solar-System.css
 │   ├── solar system3.jpeg
 │   └── solar_system_orbital_dark.png
