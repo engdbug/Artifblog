@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(34,26,63);
+    background-image: url('solar system3.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-bottom: 0%;
+}  
+h1, h2, p, figcaption {
+    text-align: center;
+    color: rgb(255, 200, 0);
+    text-shadow: 
+    -1px -1px 0 rgb(44, 17, 0),  
+    1px -1px 0 rgb(44, 17, 0),   
+    -1px 1px 0 rgb(44, 17, 0),   
+    1px 1px 0 rgb(44, 17, 0); 
+}
+h1 {
+    opacity: 75%;
+    font-size: 130px;
+    font-style: italic;
+}
+h2 {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 45px;
+}
+p {
+    font-size: 30px;
+    margin: 30px;
+}
+h1, h2 {
+    margin: 10px;
+    font-family: Orbitron;
+}
+.ssfit {
+    display: block;
+    margin: auto;
+    max-width: 60%;
+    height: auto;
+    position: center;
+}
+figcaption {
+    font-size: 14px;
+    border-radius: 15px;
+}
